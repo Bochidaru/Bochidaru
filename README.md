@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Bochidaru</h1>
-<h3 align="center">AI Engineer with a strong interest in Computer Vision, Generative AI, and 3D Vision. My work focuses on building intelligent visual systems, ranging from image understanding and image editing to 3D reconstruction and diffusion-based generation.</h3>
+<h3 align="center">AI Engineer with a strong interest in Computer Vision, Generative AI, and 3D Vision.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bochidaru" alt="bochidaru" /></a> </p>
 
