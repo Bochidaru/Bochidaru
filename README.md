@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **Every bug costs me 100 push-ups**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
