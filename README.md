@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Diffusion Models & ControlNet, Gaussian Splatting, Vision Transformers, Multi-view Geometry, Generative AI for Computer Vision**
 
-- 📫 How to reach me **truongminhphuong4@gmail.com**
+- 📫 Reach me **truongminhphuong4@gmail.com**
 
 - ⚡ Fun fact **Every bug costs me 100 push-ups**
 
