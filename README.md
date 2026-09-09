@@ -11,12 +11,6 @@
 
 * ⚡ Fun fact: **Every bug costs me 100 push-ups**
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-* **ControlFix** — Pose-aware diffusion-based repair for sparse-view Gaussian Splatting
-* **AI Image Editing Suite** — Object removal, object replacement, background editing, and image enhancement
-* **SSL4MIS Cardiac Segmentation** — Improved cardiac MRI segmentation performance using semi-supervised learning
-
 <h3 align="left">🧰 Languages and Tools</h3>
 
 <p align="left">
