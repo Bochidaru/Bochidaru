@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Bochidaru</h1>
 <h3 align="center">AI Engineer with a strong interest in Computer Vision, Generative AI, and 3D Vision</h3>
 
-* 🌱 I’m currently learning **3D Vision, Diffusion Models, and Generative AI**
+* 🌱 I’m currently learning **3D Vision, 3D Reconstruction and Diffusion Models**
 
-* 💬 Ask me about **Diffusion Models & ControlNet, Gaussian Splatting, Vision Transformers, Multi-view Geometry, Generative AI for Computer Vision**
+* 💬 Ask me about **Diffusion Models & ControlNet, Gaussian Splatting, Vision Transformers, Multi-view Geometry, Generative AI**
 
 * 🛠️ Experience in **AI Engineering, Web Development, and Game Development**
 
