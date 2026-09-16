@@ -9,8 +9,6 @@
 
 * 📫 Reach me **[truongminhphuong4@gmail.com](mailto:truongminhphuong4@gmail.com)**
 
-* ⚡ Fun fact: **Every bug costs me 100 push-ups**
-
 <h3 align="left">🧰 Languages and Tools</h3>
 
 <p align="left">
